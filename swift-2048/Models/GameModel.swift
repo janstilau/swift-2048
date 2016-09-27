@@ -4,7 +4,7 @@
 //
 //  Created by Austin Zheng on 6/3/14.
 //  Copyright (c) 2014 Austin Zheng. Released under the terms of the MIT license.
-//
+//MoveCommand
 
 import UIKit
 
